@@ -1,2 +1,2 @@
 # phpCalculator
-created a calculator usuing html and php
+created a calculator using html and php
